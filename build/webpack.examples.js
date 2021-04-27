@@ -15,6 +15,7 @@ const config = {
     hot: true,
     open: false,
     port: PORT,
+    quiet: true,
     compress: true,
     contentBase: utils.resolve('dist')
   },
